@@ -1,1 +1,3 @@
-# Ini Adalah Latihan Branch Baru di GitHub 
+# Ini Adalah Latihan Branch Baru di GitHub  
+
+Github itu asyik lho.
